@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 [![bonikoo's 42 stats](https://badge42.coday.fr/api/v2/clv4t5m0j669501p4r2gjtu5v/stats?cursusId=21&coalitionId=456)](https://github.com/Coday-meric/badge42)
+
+[![bonikoo's 42 stats](https://badge42.coday.fr/api/v2/clv4t5m0j669501p4r2gjtu5v/stats?cursusId=21&coalitionId=456)](https://github.com/Coday-meric/badge42)
+[![bonikoo's 42 ft_printf Score](https://badge42.coday.fr/api/v2/clv4t5m0j669501p4r2gjtu5v/project/3587729)](https://github.com/Coday-meric/badge42)
+[![bonikoo's 42 ft_printf Score](https://badge42.coday.fr/api/v2/clv4t5m0j669501p4r2gjtu5v/project/3587729)](https://github.com/Coday-meric/badge42)
+[![bonikoo's 42 Born2beroot Score](https://badge42.coday.fr/api/v2/clv4t5m0j669501p4r2gjtu5v/project/3629825)](https://github.com/Coday-meric/badge42)
+
 <!--
 **Bik00/Bik00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
